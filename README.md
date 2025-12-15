@@ -41,15 +41,13 @@ end
 endmodule
 
 ```
-Developed by: B.TAMIZHAN
-
-RegisterNumber:25018064
 
 RTL LOGIC FOR SISO Shift Register:
 [EX 10 Dia.pdf](https://github.com/user-attachments/files/24148259/EX.10.Dia.pdf)
 
 WAVEFORM:
-<img width="1919" height="934" alt="Screenshot 2025-12-14 130536" src="https://github.com/user-attachments/assets/392aabff-fb88-45bc-9f31-124947f76ece" />
+[SHIFT_RESISTER.pdf](https://github.com/user-attachments/files/24170546/SHIFT_RESISTER.pdf)
+
 
 NAME: TAMIZHAN.B
 REF NO : 25018064
